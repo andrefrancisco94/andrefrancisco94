@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @andrefrancisco94
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Sou Graduado em "Engenharia de Produção" com foco na área da gestão e tenho pós em gestão de projetos em andamento. 
 
-<!---
-andrefrancisco94/andrefrancisco94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Desde muito jovem, em meados dos anos 2010 comecei a estudar assuntos relacionados ao desenvolvimento de Softwares como algo extra de minha rotina “um Hobby pessoal”, sendo que no final de 2018, quando estava trabalhando na área de PPCP do grupo GTFoods, eu fui convidado a sair de minha área de profissão relacionado ao curso de Engenharia de Produção, para atuar inicialmente como “Key User” de um projeto, e posteriormente fui “Lider de Frente” em um projeto de implantação de um ERP Protheus TOTVS na empresa GTFoods (software que substituiu todo o sistema ERP principal da empresa). 
+
+Como tinha o conhecimento da área de negócios da empresa, no final de 2019 fui convidado a entrar para área de T.I como suporte de sistemas, onde perdurou por um período de três meses, e após esse período entrei como Desenvolvedor de sistemas com foco na linguagem “ADVPL e PL/SQL”, e conhecimentos específicos em JavaScript, Python, HTML, CSS e correlatas da área, aumentando meu conhecimento em outras linguagens de programação, sendo a maior parte do trabalho em conjunto com a área de projetos da empresa, realizando os levantamentos de requisitos de processos necessários “LPN” com o foco em correções e melhorias pertinentes ao sistema ERP e afins, além de todo o controle e indicadores necessários.
