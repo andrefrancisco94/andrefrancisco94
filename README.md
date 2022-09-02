@@ -40,7 +40,7 @@ Some tools, libs and programming languages i like and used...
 [![ADVPL](https://img.shields.io/badge/ADVPL-4B3264?style=for-the-badge&logo=ADVPL&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
 [![TL++](https://img.shields.io/badge/TL++-%23430098.svg?style=for-the-badge&logo=TL++&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
 [![TLPP](https://img.shields.io/badge/TLPP-%23FF6600.svg?&style=for-the-badge&logo=TLPP&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/andrefrancisco94/)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
