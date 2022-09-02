@@ -29,7 +29,7 @@ Sou formado em Engenharia de Produção com pós-graduação em "Desenvolvimento
 
 <div>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andrefrancisco94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="153em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefrancisco94&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefrancisco94&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <p></p>
