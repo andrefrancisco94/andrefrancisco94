@@ -16,21 +16,21 @@ Sou formado em Engenharia de Produção com pós-graduação em "Desenvolvimento
 
 📫 Reach me out 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-francisco9/)](https://www.linkedin.com/in/andre-francisco9/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/andre.fco27/)](https://www.instagram.com/andre.fco27/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/andree_fco/)](https://twitter.com/andree_fco/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/andre.fco94/)](https://www.facebook.com/andre.fco94/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-francisco9/)](https://www.linkedin.com/in/andre-francisco9/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/andre.fco27/)](https://www.instagram.com/andre.fco27/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/andree_fco/)](https://twitter.com/andree_fco/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/andre.fco94/)](https://www.facebook.com/andre.fco94/)
 
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5544998790822)](https://api.whatsapp.com/send?phone=5544998790822)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/andrefco94)](https://t.me/andrefco94)
-[![Hotmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:andre.fco@hotmail.com)](mailto:andre.fco@hotmail.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:andre.fco94@gmail.com)](mailto:andre.fco94@gmail.com)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5544998790822)](https://api.whatsapp.com/send?phone=5544998790822)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/andrefco94)](https://t.me/andrefco94)
+[![Hotmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:andre.fco@hotmail.com)](mailto:andre.fco@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:andre.fco94@gmail.com)](mailto:andre.fco94@gmail.com)
 
 <p></p>
 
 <div>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andrefrancisco94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefrancisco94&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="153em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefrancisco94&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <p></p>
