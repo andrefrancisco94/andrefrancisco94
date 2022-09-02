@@ -37,25 +37,25 @@ Sou formado em Engenharia de Produção com pós-graduação em "Desenvolvimento
 Some tools, libs and programming languages i like and used...
 
 
-![ADVPL](https://img.shields.io/badge/ADVPL-4B3264?style=for-the-badge&logo=ADVPL&logoColor=white&link=https://github.com/andrefrancisco94)
-![TL++](https://img.shields.io/badge/TL++-%23430098.svg?style=for-the-badge&logo=TL++&logoColor=white&link=https://github.com/andrefrancisco94)
-![TLPP](https://img.shields.io/badge/TLPP-%23FF6600.svg?&style=for-the-badge&logo=TLPP&logoColor=white&link=https://github.com/andrefrancisco94)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&link=https://github.com/andrefrancisco94)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&link=https://github.com/andrefrancisco94)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&link=https://github.com/andrefrancisco94)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&link=https://github.com/andrefrancisco94)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&link=https://github.com/andrefrancisco94)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/andrefrancisco94)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&link=https://github.com/andrefrancisco94)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&link=https://github.com/andrefrancisco94)
-![Angular](	https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&link=https://github.com/andrefrancisco94)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&link=https://github.com/andrefrancisco94)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/andrefrancisco94)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/andrefrancisco94)
-<!-- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&link=https://github.com/andrefrancisco94) -->
-<!-- ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&link=https://github.com/andrefrancisco94) -->
+[![ADVPL](https://img.shields.io/badge/ADVPL-4B3264?style=for-the-badge&logo=ADVPL&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
+[![TL++](https://img.shields.io/badge/TL++-%23430098.svg?style=for-the-badge&logo=TL++&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
+[![TLPP](https://img.shields.io/badge/TLPP-%23FF6600.svg?&style=for-the-badge&logo=TLPP&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
+[![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://github.com/andrefrancisco94/)
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
+<!-- [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/) -->
+<!-- [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/) -->
 
 
 Made with 💜 by <a href="https://www.facebook.com/andre.fco94/" target="_blank">André Francisco</a>
