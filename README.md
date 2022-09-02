@@ -20,7 +20,6 @@ Sou formado em Engenharia de Produção com pós-graduação em "Desenvolvimento
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/andre.fco27/)](https://www.instagram.com/andre.fco27/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/andree_fco/)](https://twitter.com/andree_fco/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/andre.fco94/)](https://www.facebook.com/andre.fco94/)
-
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5544998790822)](https://api.whatsapp.com/send?phone=5544998790822)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/andrefco94)](https://t.me/andrefco94)
 [![Hotmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:andre.fco@hotmail.com)](mailto:andre.fco@hotmail.com)
