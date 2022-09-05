@@ -54,8 +54,3 @@ Some tools, libs and programming languages i like and used...
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
-<!-- [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/) -->
-<!-- [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/) -->
-
-
-Made with 💜 by <a href="https://www.facebook.com/andre.fco94/" target="_blank">André Francisco</a>
