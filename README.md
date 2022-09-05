@@ -2,7 +2,7 @@
 
 [![GitHub André Francisco](https://img.shields.io/github/followers/andrefrancisco94?label=follow&style=social)](https://github.com/andrefrancisco94)
 
-Sou formado em Engenharia de Produção com pós-graduação em "Desenvolvimento de Sistemas com Python", "Gestão de Projetos" e "Design de UX" pelo Centro Univesitário de Maringá (UNICESUMAR). Atualmente trabalho como Desenvolvedor de Software na [Iguaçu Máquinas John Deere](https://www.iguacumaquinas.com.br/).
+Sou formado em Engenharia de Produção com Pós-Graduação em  "Desenvolvimento de Sistemas com Python", "Gestão de Projetos" e "Design de UX" pelo Centro Univesitário de Maringá (UNICESUMAR). Atualmente trabalho como Desenvolvedor de Software na [Iguaçu Máquinas John Deere](https://www.iguacumaquinas.com.br/).
 
 - 💻 Software Engineer at [Iguaçu Máquinas John Deere](https://www.iguacumaquinas.com.br/)
 - 🚀 Passionate about technology
