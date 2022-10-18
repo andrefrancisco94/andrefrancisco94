@@ -6,7 +6,7 @@ Sou formado em Engenharia de Produção com Pós-Graduação em:
   - "Desenvolvimento de Sistemas com Python" - Centro Univesitário de Maringá (UNICESUMAR), 
   - "Gestão de Projetos" - Centro Univesitário de Maringá (UNICESUMAR),
   - "Design de UX" - Centro Univesitário de Maringá (UNICESUMAR).
-  - "Análise, Projeto e Gerência de Sistemas" - Universidade Pitágoras Unopar Anhanguera
+  - "Análise, Projeto e Gerência de Sistemas" - Universidade Pitágoras (Unopar Anhanguera)
   
 Atualmente trabalho como Desenvolvedor de Software na [Iguaçu Máquinas John Deere](https://www.iguacumaquinas.com.br/).
 
