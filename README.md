@@ -2,8 +2,6 @@
 
 [![GitHub André Francisco](https://img.shields.io/github/followers/andrefrancisco94?label=follow&style=social)](https://github.com/andrefrancisco94)
 
-![68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966](https://user-images.githubusercontent.com/23222789/209136508-c21cb8ad-c617-4526-824e-30843f8ed90b.gif)
-
 Sou formado em Engenharia de Produção com Pós-Graduação em: 
   - "Desenvolvimento de Sistemas com Python" - Centro Univesitário de Maringá (UNICESUMAR), 
   - "Gestão de Projetos" - Centro Univesitário de Maringá (UNICESUMAR),
@@ -62,3 +60,5 @@ Some tools, libs and programming languages i like and used...
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/andrefrancisco94)](https://github.com/andrefrancisco94/)
+
+![68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966](https://user-images.githubusercontent.com/23222789/209136508-c21cb8ad-c617-4526-824e-30843f8ed90b.gif)
